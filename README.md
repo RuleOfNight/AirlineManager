@@ -27,3 +27,8 @@
 <p>
 Để có thể sử dụng code đầu tiên bạn phải cài đặt XAMPP để có thể tạo ra 1 sever để chạy code cũng như chứa cơ sở dữ liệu, tiếp theo khởi tạo các bảng trong local host và định nghĩa các giá trị đó để có thể sử dụng code. sau khi hoàn thành xong vào phần code và bạn sẽ bắt đầu sử dụng chương trình từ LoginPage ở file MainPage.java .
 </p>
+<ul>
+ <li><a href="https://www.apachefriends.org/download.html">Tải XAMPP tại đây</a></li>
+ <li><a href="https://www.facebook.com/share/p/Vo3JMbTqT8YR2EX6/">Hướng dẫn cách tải và cài đặt</a></li>
+</ul>
+
