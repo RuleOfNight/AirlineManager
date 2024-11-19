@@ -20,7 +20,8 @@
     <li><strong>Hosting: </strong> Xampp</li>
 
 </ul>
-
+<h2>Mô hình lược đồ chương trình</h2>
+<img src=db.png alt=database>
 <p>Ứng dụng còn khá nhiều hạn chế về mặt chuyên môn, song đây có thể coi là một tài liệu tham khảo có tính ứng dụng tốt trong việc học tập và nghiên cứu.</p>
 
 
